@@ -74,5 +74,3 @@ export const AuthProvider = ({ children }) => {
     );
 };
 
-
-// thisnis what i make sense as followed right 
